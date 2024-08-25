@@ -1,0 +1,48 @@
+{
+  "BinarySearch": [
+    "two-sum-ii-input-array-is-sorted"
+  ],
+  "DFS": [
+    "subsets",
+    "combinations"
+  ],
+  "DP": [
+    "longest-increasing-subsequence"
+  ],
+  "LinkedList": [
+    "reverse-linked-list",
+    "linked-list-cycle",
+    "add-two-numbers",
+    "merge-two-sorted-lists",
+    "linked-list-cycle-ii",
+    "intersection-of-two-linked-lists"
+  ],
+  "Queue": [
+    "sliding-window-maximum"
+  ],
+  "Stack": [
+    "trapping-rain-water"
+  ],
+  "Tree": [
+    "n-ary-tree-postorder-traversal",
+    "n-ary-tree-preorder-traversal",
+    "n-ary-tree-level-order-traversal",
+    "invert-binary-tree",
+    "lowest-common-ancestor-of-a-binary-tree",
+    "validate-binary-search-tree"
+  ],
+  "TwoPointer": [
+    "move-zeroes",
+    "container-with-most-water",
+    "remove-duplicates-from-sorted-array",
+    "merge-sorted-array"
+  ],
+  "Heap": [
+    "top-k-frequent-elements"
+  ],
+  "BFS": [
+    "number-of-islands"
+  ],
+  "Must": [
+  ]
+}
