@@ -44,5 +44,6 @@
     "number-of-islands"
   ],
   "Must": [
+    "edit-distance"
   ]
 }
