@@ -7,7 +7,8 @@
     "combinations"
   ],
   "DP": [
-    "longest-increasing-subsequence"
+    "longest-increasing-subsequence",
+    "edit-distance"
   ],
   "LinkedList": [
     "reverse-linked-list",
@@ -44,6 +45,5 @@
     "number-of-islands"
   ],
   "Must": [
-    "edit-distance"
   ]
 }
