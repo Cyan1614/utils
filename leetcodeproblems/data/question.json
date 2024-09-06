@@ -1,6 +1,8 @@
 {
   "BinarySearch": [
-    "two-sum-ii-input-array-is-sorted"
+    "two-sum-ii-input-array-is-sorted",
+    "sqrtx",
+    "valid-perfect-square"
   ],
   "DFS": [
     "subsets",
@@ -45,5 +47,6 @@
     "number-of-islands"
   ],
   "Must": [
+    "house-robber"
   ]
 }
