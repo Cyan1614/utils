@@ -10,7 +10,8 @@
   ],
   "DP": [
     "longest-increasing-subsequence",
-    "edit-distance"
+    "edit-distance",
+    "house-robber"
   ],
   "LinkedList": [
     "reverse-linked-list",
@@ -47,6 +48,7 @@
     "number-of-islands"
   ],
   "Must": [
-    "house-robber"
+    "longest-substring-without-repeating-characters",
+    "best-time-to-buy-and-sell-stock"
   ]
 }

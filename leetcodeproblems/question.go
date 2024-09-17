@@ -180,7 +180,7 @@ func (q *QuestionDatabase) Random() error {
 		sort.Slice(summaries, func(i, j int) bool {
 			return summaries[i].LastFinishTime < summaries[j].LastFinishTime
 		})
-		if time.Now().Unix()-summaries[0].LastFinishTime >= 86400 && count < 5 {
+		if time.Now().Unix()-summaries[0].LastFinishTime >= 86400*2 && count < 5 {
 			list = append(list, summaries[0].Name)
 			count++
 		}
