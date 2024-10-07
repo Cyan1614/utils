@@ -11,7 +11,8 @@
   "DP": [
     "longest-increasing-subsequence",
     "edit-distance",
-    "house-robber"
+    "house-robber",
+    "best-time-to-buy-and-sell-stock"
   ],
   "LinkedList": [
     "reverse-linked-list",
@@ -22,7 +23,8 @@
     "intersection-of-two-linked-lists"
   ],
   "Queue": [
-    "sliding-window-maximum"
+    "sliding-window-maximum",
+    "longest-substring-without-repeating-characters"
   ],
   "Stack": [
     "trapping-rain-water"
@@ -48,7 +50,5 @@
     "number-of-islands"
   ],
   "Must": [
-    "longest-substring-without-repeating-characters",
-    "best-time-to-buy-and-sell-stock"
   ]
 }
